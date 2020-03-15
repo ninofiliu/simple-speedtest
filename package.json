@@ -1,6 +1,6 @@
 {
     "name": "simple-speedtest",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Minuscule CLI to evaluate download network speed",
     "keywords": ["cli", "speedtest", "internet"],
     "homepage": "https://github.com/ninofiliu/simple-speedtest",
