@@ -1,3 +1,8 @@
-# Speedtest
+# simple-speedtest
 
-CLI for testing network speed
+Minuscule CLI to evaluate download network speed
+
+```
+npm i -g simple-speedtest
+speedtest [url (default: http://www.google.com)]
+```

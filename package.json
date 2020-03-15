@@ -1,6 +1,13 @@
 {
-    "name": "speedtest",
-    "version": "0.0.0",
+    "name": "simple-speedtest",
+    "version": "1.0.0",
+    "description": "Minuscule CLI to evaluate download network speed",
+    "keywords": ["cli", "speedtest", "internet"],
+    "homepage": "https://github.com/ninofiliu/simple-speedtest",
+    "license": "ISC",
+    "author": "Nino Filiu (https://ninofiliu.com)",
+    "bin": { "speedtest": "main.js" },
+    "repository": "github:ninofiliu/simple-speedtest",
     "devDependencies": {
         "eslint": "^6.8.0",
         "eslint-config-airbnb-base": "^14.1.0",
